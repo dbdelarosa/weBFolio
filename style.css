@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+    
+.menu-bar  {
+    
+    
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+    float: right;
+    
+    
+
+}
+.menu-bar ul li{
+    
+    color: white;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+   background-color: #000022;
+    font-size: 15px;
+    opacity: 0.9;
+    
+    
+
+    
+
+    
+}
+
+.menu-bar ul li a{
+    text-decoration: none;
+    color:#fff;
+    
+
+}
+.active, .menu-bar ul li:hover{
+    background:#1F487E  ;
+    border-radius: 2px;
+}
+
+
+.hello{
+   width:25%;
+   color: white;
+   position: absolute;
+   top: 30%;
+   left: 25%;
+   transform:translate(-50%,-50%);
+   text-align: center;
+    font-size: 35px;
+    opacity: 0.3;
+   
+   
+}
+
+
+ 
+
+
+  
+body{
+    background-color: black;
+   
+    
+    
+}
+
+ .mushi{
+    width:25%;
+    color: #637074;
+    position: absolute;
+    top: 62%;
+    left: 77%;
+    transform:translate(-50%,-50%);
+   font-family: cursive;
+     font-size: 16px;
+    
+    
+} 
+.header{
+
+    padding: 60px;
+    background-color: #637074;
+   color: wheat;
+   font-size: 35px;
+  align-items: center;
+  font-family: cursive;
+  opacity: 0.6;
+
+
+    
+}
+.image{
+   
+    position: absolute;
+    left: 40%;
+    top: 36%;
+    opacity: 0.6;
+    
+
+}
+.dennis{
+
+    color: white;
+
+    
+    position: absolute;
+   font-size: 25px;
+    left: 26%;
+    top: 94%;
+    font-family: cursive;
+     opacity: 0.6;
+
+}
+.x {
+    list-style-type: none;
+    padding: 0;
+color: white;
+position: absolute;
+top: 62%;
+left: 30%;
+transform:translate(-50%,-50%);
+font-family: cursive;
+ font-size: 16px;
+
+    margin-bottom: 10px;
+
+[type="checkbox"] {
+    margin-right: 10px;
+}
+
+
+}
+.proj{
+    position: absolute;
+     left: 5%;
+     top: 35%;
+      opacity: 0.6;
+      background-color: white;
+
+}
+.y{
+    color: white;
+    font-family: cursive;
+    position: absolute;
+    top: 25%;
+    left: 3%;
+}
+.lav{
+    color: white;
+    font-family: cursive;
+    position: absolute;
+    top: 33%;
+    left: 19%;
+}
+.gal{
+    position: absolute;
+     left: 4%;
+     top: 55%;
+      opacity: 0.6;
+    
+}
+.z{
+    color: white;
+    font-family: cursive;
+    position: absolute;
+    top: 55%;
+    left: 19%;
+
+}
+.spr{
+    position: absolute;
+    left: 3%;
+    top: 70%;
+     opacity: 0.6;
+  
+}
+.s{
+    color: white;
+    font-family: cursive;
+    position: absolute;
+    top: 70%;
+    left: 19%;
+}
+
+  
